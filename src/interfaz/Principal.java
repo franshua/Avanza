@@ -25,13 +25,6 @@ import modelo.Usuario;
  * Diego
  */
 public class Principal extends javax.swing.JFrame {
-
-    /**
-     * Creates
-     * new
-     * form
-     * Principal
-     */
     
     Usuario user;
     ArrayList<Partido> partidos;
