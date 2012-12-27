@@ -20,6 +20,7 @@ import modelo.Partido;
  */
 public class Detalles extends javax.swing.JFrame {
     Partido p;
+    
     /**
      * Creates
      * new
