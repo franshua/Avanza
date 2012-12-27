@@ -17,7 +17,7 @@ public class AppAvanza {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName()); 
         }
         catch (UnsupportedLookAndFeelException | ClassNotFoundException | InstantiationException | IllegalAccessException e) { 
-           // handle exception 
+           // handle exception
         }
     
         Conectando car = new Conectando();
